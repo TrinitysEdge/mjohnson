@@ -23,6 +23,7 @@ header {
 
 .panel-1-3 {
   display: inline-block;
-  width: 33.33%;
+  width: 32%;
   max-width: 100%;
+  margin: 10px;
 }
